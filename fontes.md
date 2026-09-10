@@ -1,6 +1,8 @@
 # Fontes
+> **O porquê das fontes escolhidas:** são o material mais denso e específico que tenho sobre o tema, e testar a IA sobre um conteúdo que eu já conheço bem me ajuda a perceber mais rápido quando ela erra, generaliza demais ou "inventa" alguma coisa que não está na fonte.
 
 Este documento detalha as fontes selecionadas e carregadas no NotebookLM.
+
 
 ---
 
