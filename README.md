@@ -51,4 +51,11 @@ O projeto foi organizado de forma modular para facilitar a navegação técnica 
 ---
 
 
+## 4. Aviso
+
+Este repositório é apenas para fins de estudo pessoal. Percentuais de alocação, rentabilidades históricas e recomendações de produtos citados não constituem recomendação de investimento e devem ser verificados antes de qualquer decisão financeira.
+
+---
+
+
 Desenvolvido por **Marcelo Mazzero** em setembro/2026.
